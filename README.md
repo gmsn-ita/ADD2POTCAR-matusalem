@@ -1,5 +1,5 @@
 # ADD2POTCAR-matusalem
-Program to add to the POTCAR the self-energy potential, used in DFT-1/2 calculations. This program needs the VTOTAL files calculated with the atomic program. 
+Program to add to the POTCAR the self-energy potential, used in DFT-1/2 calculations. This program needs the VTOTAL files calculated with the atomic program and the INP.ae-05 used to calculate the VTOTAL.ae-05.
 
 VTOTAL1.ae    Atomic potential for the atom
 
